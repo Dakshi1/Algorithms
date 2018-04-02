@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522677487 source:/home/dakshi/Documents/C++ codes/Algorithms/MergeSort/main.cpp
+	<iostream>
+	<vector>
+
